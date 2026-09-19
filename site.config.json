@@ -1,0 +1,96 @@
+{
+  "n": 2,
+  "domain": "xmmclash.com.cn",
+  "name": "小猫咪 Clash",
+  "subject": "Clash 客户端",
+  "theme": "cat",
+  "color": "#235dce",
+  "monogram": "C",
+  "wordmark": "Clash.",
+  "title": "小猫咪 Clash 下载与使用教程",
+  "kicker": "HELLO, CLASH. 从第一步开始",
+  "hero": [
+    "你的第一只小猫咪，",
+    "从认识开始。"
+  ],
+  "description": "小猫咪 Clash 中文指南帮助你区分 Clash 客户端与 Mihomo 内核，查找 Windows、Mac 和安卓下载来源，学习 Clash Verge Rev 安装、订阅导入、系统代理设置及退出后网络恢复。",
+  "panelCaption": "认识客户端，而不只是一个图标。",
+  "scope": "从你的设备出发",
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Android",
+    "Linux"
+  ],
+  "downloadCta": "选择我的客户端",
+  "downloadHeading": "先选设备，再选客户端",
+  "downloadIntro": "不混淆历史版本与当前项目，下载入口直接追溯开发者。",
+  "guideHeading": "第一次使用，也能有条理",
+  "noteTitle": "图标很熟悉，名字不一定相同。",
+  "noteText": "“小猫咪”是常见昵称。下载前先认清项目名称、开发者和适用平台，比寻找相似图标更可靠。",
+  "serviceHeading": "订阅之前，先做好功课",
+  "sourceNote": "软件下载与订阅服务是两回事。本站整理工具和方法，不提供节点。",
+  "repository": "clash-verge-rev/clash-verge-rev",
+  "topline": "小猫咪 Clash · 中文入门手册",
+  "footerText": "把第一次使用，变成一次清晰的开始。",
+  "categories": [
+    [
+      "recommend",
+      "机场推荐",
+      "从客户端适配与实际需求出发，了解订阅服务。"
+    ],
+    [
+      "ranking",
+      "机场榜单",
+      "先理解测试条件，再比较服务表现。"
+    ],
+    [
+      "downloads",
+      "Clash 下载",
+      "核对平台与架构，从原始项目下载。"
+    ],
+    [
+      "tutorials",
+      "Clash 教程",
+      "从安装到排错，按步骤理解客户端。"
+    ],
+    [
+      "reviews",
+      "机场测评",
+      "公开方法与样本，才有可参考的结果。"
+    ],
+    [
+      "coupons",
+      "机场优惠码",
+      "确认来源、期限与套餐限制后再使用。"
+    ]
+  ],
+  "previewPort": 4174,
+  "steps": [
+    [
+      "找到下载入口",
+      "核对系统、架构与项目来源"
+    ],
+    [
+      "导入并选择配置",
+      "理解订阅与代理策略"
+    ],
+    [
+      "检查实际连接",
+      "从日志和目标应用开始"
+    ]
+  ],
+  "featuredGuides": [
+    "windows-first-run",
+    "restore-network"
+  ],
+  "relatedSites": [
+    {
+      "domain": "ez-v2rayn.com.cn",
+      "name": "Easy v2rayN",
+      "reason": "继续阅读 Windows 客户端入门和网络恢复",
+      "port": 4182,
+      "published": false
+    }
+  ]
+}

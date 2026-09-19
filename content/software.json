@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "clash-verge-rev",
+    "title": "Clash Verge Rev",
+    "icon": "CV",
+    "platform": "Windows · macOS · Linux",
+    "repository": "clash-verge-rev/clash-verge-rev",
+    "description": "桌面端图形客户端，适合从界面管理订阅与代理策略。",
+    "guidance": "下载前核对系统架构和发行说明。",
+    "tag": "原始项目"
+  },
+  {
+    "slug": "flclash",
+    "title": "FlClash",
+    "icon": "Fl",
+    "platform": "Windows · macOS · Android · Linux",
+    "repository": "chen08209/FlClash",
+    "description": "跨平台客户端，适合希望在多个设备上熟悉同类操作的用户。",
+    "guidance": "各平台安装与权限要求不同，不要混用安装包。",
+    "tag": "原始项目"
+  },
+  {
+    "slug": "clash-meta-android",
+    "title": "Clash Meta for Android",
+    "icon": "CM",
+    "platform": "Android",
+    "repository": "MetaCubeX/ClashMetaForAndroid",
+    "description": "面向 Android 的规则代理客户端。",
+    "guidance": "Android 安装与系统 VPN 授权以项目文档为准。",
+    "tag": "原始项目"
+  }
+]
